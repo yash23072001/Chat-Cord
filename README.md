@@ -1,1 +1,1 @@
-# Chat-Cord
+Ths is a chat application for the users who can discuss problems or queries related to coding. In this app, a user can enter in the room respective of their language. For ex: If a user has some doubt and do coding in Java then he/she can enter in room name Java where all the people can do discussion. Tech Stack: socket.io, Node.js, Express.js     
